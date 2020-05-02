@@ -1,23 +1,24 @@
-![Zero Hunger Image](https://i.ytimg.com/vi/86Rcur6vg9U/maxresdefault.jpg)
+barebones setup for JavaScript / Node projects replace this with a one-liner phrase describing this project or app
+
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/2ea27aae53b742bcbe3659ddd0622dbf)](https://app.codacy.com/gh/BuildForSDG/Team-046-ZeroHunger?utm_source=github.com&utm_medium=referral&utm_content=BuildForSDG/Team-046-ZeroHunger&utm_campaign=Badge_Grade_Settings)
+[![Codacy Badge](https://img.shields.io/badge/Code%20Quality-D-red)](https://img.shields.io/badge/Code%20Quality-D-red)
 
 
 ## About
 
-The Zero Hunger Project aims to end hunger and malnutrition by 2030, and to ensure access to safe, nutritious and sufficient food. Our planet has provided us with tremendous resources, but unequal access and inefficient handling leaves millions of people malnourished. If we promote sustainable agriculture with modern technologies and fair distribution systems, we can help sustain the whole world’s population and help make sure that nobody will ever suffer from hunger again.
+What is this project about. Ok to enrich here or the section above it with an image. 
+
+Once this repo has been setup on Codacy by the TTL, replace the above badge with the actual one from the Codacy dashboard, and add the code coverage badge as well. This is mandatory
+
+This is a simple JavaScript starter repo template for setting up your project. The setup contains
+
+- Jest: For runnung tests. We strongly recommend that JavaScript projects use Jest
+
+- Eslint & Prettier: For formatting code to match ESlint AirBnB coding standard. You might need to install the ESlint and Prettier plugins for your code editor to make the most of these utilities
 
 ## Why
 
-The Zero Hunger project focuses on the targets listed below.
-However the team-046 focuses on the second target.
-
-- Universal access to safe and nutritious food.
-- End all forms of malnutrition.
-- Double the income and productivity of smale-scale food producers.
-- Sustainable food production and resilient agricultural practices.
-- Maintain the genetic food diveristy in food production.
-- Invest in rural, agricultural research, technology and gene banks.
-- prevent agricultural trade restrictions, market distortions and export subsidies.
-- Ensure stable food commodity market and timely access to information.
+Talk about what problem this solves, what SDG(s) and SGD targets it addresses and why these are imoirtant
 
 ## Usage
  How would someone use what you have built, include URLs to the deployed app, service e.t.c when you have it setup
