@@ -1,22 +1,20 @@
 ![Zero Hunger Image](https://i.ytimg.com/vi/86Rcur6vg9U/maxresdefault.jpg)
-
 ## About
 
 The Zero Hunger Project aims to end hunger and malnutrition by 2030, and to ensure access to safe, nutritious and sufficient food. Our planet has provided us with tremendous resources, but unequal access and inefficient handling leaves millions of people malnourished. If we promote sustainable agriculture with modern technologies and fair distribution systems, we can help sustain the whole world’s population and help make sure that nobody will ever suffer from hunger again.
 
 ## Why
 
-The Zero Hunger project focuses on the targets listed below.
-However the team-046 focuses on the second target.
+The Zero Hunger project focuses on the targets listed below. However the team-046 focuses on the second target.
 
--  Universal access to safe and nutritious food.
--  End all forms of malnutrition.
--  Double the income and productivity of smale-scale food producers.
--  Sustainable food production and resilient agricultural practices.
--  Maintain the genetic food diveristy in food production.
--  Invest in rural, agricultural research, technology and gene banks.
--  Prevent agricultural trade restrictions, market distortions and export subsidies.
--  Ensure stable food commodity market and timely access to information.
+1.  Universal access to safe and nutritious food.
+2.  End all forms of malnutrition.
+3.  Double the income and productivity of smale-scale food producers.
+4.  Sustainable food production and resilient agricultural practices.
+5.  Maintain the genetic food diveristy in food production.
+6.  Invest in rural, agricultural research, technology and gene banks.
+7.  Prevent agricultural trade restrictions, market distortions and export subsidies.
+8.  Ensure stable food commodity market and timely access to information.
 
 ## Usage
 
@@ -36,12 +34,12 @@ This starter uses [Parcel](https://parceljs.org/getting_started.html) as the bun
 
 #### Hints
 
--  Run `npm install` or `yarn install` to get started. We'll assume you are using Yarn.
--  Install additional dependencies: `yarn add <dependency-name> [-D]`
--  Run tests: `yarn test`
--  Run tests with test coverage info: `yarn test:cover`
--  Check the codebase for proper syntax and formatting compliance: `yarn lint`
--  Run your app in local dev mode: `yarn start`. This puts the bundled app in a `dist` folder, set up a local web server at localhost:1234, and continues to watch for your code changes which it syncs with the local server. This means if you loaded the app in a browser, it will auto-refresh as you code along. Feel free to use whatever bundler best meets your needs. Parcel was only added as a sample and for those looking for a simple but effective solution to the hassle of bundlers.
+- Run `npm install` or `yarn install` to get started. We'll assume you are using Yarn.
+- Install additional dependencies: `yarn add <dependency-name> [-D]`
+- Run tests: `yarn test`
+- Run tests with test coverage info: `yarn test:cover`
+- Check the codebase for proper syntax and formatting compliance: `yarn lint`
+- Run your app in local dev mode: `yarn start`. This puts the bundled app in a `dist` folder, set up a local web server at localhost:1234, and continues to watch for your code changes which it syncs with the local server. This means if you loaded the app in a browser, it will auto-refresh as you code along. Feel free to use whatever bundler best meets your needs. Parcel was only added as a sample and for those looking for a simple but effective solution to the hassle of bundlers.
 
 ## Authors
 
